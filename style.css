@@ -1,0 +1,11 @@
+canvas {
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-name: canvas;
+}
+
+@keyframes canvas {
+    from{box-shadow: 1px 1px 45px rgb(0, 148, 240);}
+    to{box-shadow: 1px 1px 45px yellowgreen;}
+}
+
