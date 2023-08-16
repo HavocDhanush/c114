@@ -9,3 +9,7 @@ canvas {
     to{box-shadow: 1px 1px 45px yellowgreen;}
 }
 
+h3{
+    font-size: 25px !important;
+    color: black !important;
+}
